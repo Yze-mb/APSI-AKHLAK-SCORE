@@ -1,0 +1,6 @@
+{
+  "name": "AKHLAKScore Performance System",
+  "description": "Web-Based Human Resource Performance Management System for 360-degree feedback evaluation and individual development planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
